@@ -1,4 +1,3 @@
-# Goelg_Portfolio
 
 # [Powershell](https://github.com/goelg08/Powershell)
 Powershell Scripts
