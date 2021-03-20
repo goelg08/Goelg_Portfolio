@@ -11,3 +11,13 @@ Various powershell scripts to automate and met business needs.
 1.  Scrapped multiple pages for form 4 (SEC Filings).
 2.  Fetched Disposed/Aquired information regarding Stocks.
 3.  Generate proper formatted data and provide files for further processing.
+
+# [FileProcessing Management](https://github.com/goelg08/FileProcessingManagement)
+This project addresses file validation uploaded by any user. Below are the list of checks performed :
+1.  Number of columns.
+2.  Name of columns.
+3.  Data Type of columns.
+4.  Number of Records.
+5.  Number of Sheets (In case of Excel).
+6.  Name of Sheets (In case of Excel).
+7.  Name of FileName.
